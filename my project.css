@@ -1,0 +1,158 @@
+h1{ 
+text-align:center; 
+color:green; 
+}
+ h2{ 
+text-align:center; 
+color:orange; 
+} 
+h3{
+text-align:center;
+ color:pink; 
+}
+ h4{ 
+text-align:center;
+ color:purple; 
+}
+ .p{ font-size:14px;
+wprd-spacing:2px; 
+text-transform:capitalize; }
+ body{ style="background-img: url('/storage/emulated/0/DCIM/Screenshots/IMG_20210615_093322.jpg');
+width:40px; height:40px; } 
+*{ 
+margin:0;
+ padding:0; 
+box-sizing:border-box;
+ } 
+body{
+background:#fcfcfc;
+ } 
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:'poppins',sans-serif;
+  }
+  .contact{
+    position:relative;
+    min-height:100rh;
+    padding:50px 100px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+   }
+   .contact.content{
+     max-width:800px;
+     text-align:center;
+   }
+    .contact.content h2{
+      font-size:36px;
+      font-weight:500;
+      color:#fff;
+    }
+     .contact.content p{
+        font-weight:300;
+        color:#fff;
+     }
+     .contact info{
+       width:100℅;
+       display:flex;
+       flex-direction:column;
+     }
+.contact info .box{
+  position:relative;
+  padding:20px 0;
+  display:flex;
+  }
+  .contact info .box .icon{
+    min-width:60px;
+    background:#fff;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border-radious:50%;
+    font-size:22px;
+  }
+    .contact info .box .text{
+      display:flex;
+      margin-left:20px;
+      font-size:16px;
+      color:#fff;
+      flex-direction:column;
+      font-weight:300;
+    }
+      .contact info .box .text h3{
+        font-weight:500;
+        color:#00 bcd4;
+      }
+  .footer{ 
+background:#111; 
+height:auto;
+ width:100vw; 
+font-family:"open
+sams"; padding-top:40px; color:#fff;
+ } 
+.footer-content{ display:flex; 
+align-items:center;
+justify-content:center;
+ flex-direction:column;
+ flex-align:center; 
+} 
+.footer-content h3{ 
+font-size:1.8rem; 
+font-weight:400; 
+text-transform:capitalize;
+ line-height:3rem;
+} 
+.footer-content p{ 
+max-width:500px; 
+margin:10px auto; 
+line-height:28px; 
+font-size:14px;
+} 
+.socials{
+ list-style:none; 
+display:flex; 
+align-items:center;
+ justify-content:center;
+margin:1rem 0 3rem 0; 
+}
+ .socials li{ 
+margin:0 10px;
+ } 
+.socials a{
+ text-decoration:none;
+color:#fff; 
+} 
+.socials a i{ 
+font-size:1.1rem;
+transition:color .4s ease;
+ } 
+.socials
+a:hover i{ color:aqua; 
+} 
+.footer-bottom{ 
+background:#000; 
+width:100vw; 
+padding:20px
+0; text-align:center; 
+} 
+.footer-bottom p{
+ font-size:14px;
+ wprd-spacing:2px;
+ text-transform:capitalize;
+} 
+.footer-bottom sapn{ 
+text-transform:uppercase; 
+opacity:4; 
+font-weight:200;
+ }
+<!--
+Visual Code Mobile
+Developed By Manish Nirmal
+App Available on Play Store :-
+https://play.google.com/store/apps/details?id=lk.visual.code.mobile
+YouTube :-
+https://youtube.com/ManishNirmal
+-->
